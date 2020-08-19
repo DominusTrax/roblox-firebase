@@ -1,3 +1,7 @@
+--[[
+    This was all made by MXKhronos on ROBLOX. I just made this work for many other exploits.
+    All credits go to him.
+--]]
 local FirebaseService = {};
 
 -- Basic Information
